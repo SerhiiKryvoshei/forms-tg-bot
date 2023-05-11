@@ -1,0 +1,25 @@
+.form {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	padding: 20px;
+	background: var(--tg-theme-bg-color);
+	color: var(--tg-theme-text-color);
+}
+
+.input {
+	width: 100%;
+	padding: 10px;
+	margin-top: 15px;
+}
+
+.select {
+	padding: 10px;
+	margin-top: 15px;
+}
+
+.submit {
+	padding: 10px;
+	margin-top: 15px;
+	font-weight: bold;
+}
