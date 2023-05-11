@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/forms-tg-bot/static/css/main.39addadb.css",
+    "main.js": "/forms-tg-bot/static/js/main.8f064403.js",
+    "static/media/SFProDisplay-Semibold.woff": "/forms-tg-bot/static/media/SFProDisplay-Semibold.340c3a1a6dddb0b99476.woff",
+    "static/media/SFProDisplay-Medium.woff": "/forms-tg-bot/static/media/SFProDisplay-Medium.7274e74c05adf47dbcd9.woff",
+    "static/media/SFProDisplay-Bold.woff": "/forms-tg-bot/static/media/SFProDisplay-Bold.5b08afd6b167d7ec48ce.woff",
+    "static/media/SFProDisplay-Regular.woff": "/forms-tg-bot/static/media/SFProDisplay-Regular.7ee14c637e39445d7093.woff",
+    "static/media/SFProDisplay-Semibold.woff2": "/forms-tg-bot/static/media/SFProDisplay-Semibold.3926eb65ce4420a81930.woff2",
+    "static/media/SFProDisplay-Medium.woff2": "/forms-tg-bot/static/media/SFProDisplay-Medium.22a99d36f90cc52d2914.woff2",
+    "static/media/SFProDisplay-Bold.woff2": "/forms-tg-bot/static/media/SFProDisplay-Bold.84c242fe1f30a86d5ab3.woff2",
+    "static/media/SFProDisplay-Regular.woff2": "/forms-tg-bot/static/media/SFProDisplay-Regular.d5ff9f6824d2c6607361.woff2",
+    "index.html": "/forms-tg-bot/index.html",
+    "main.39addadb.css.map": "/forms-tg-bot/static/css/main.39addadb.css.map",
+    "main.8f064403.js.map": "/forms-tg-bot/static/js/main.8f064403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39addadb.css",
+    "static/js/main.8f064403.js"
+  ]
+}
